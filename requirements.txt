@@ -1,0 +1,6 @@
+streamlit
+gtts
+openai>=0.28
+langchain
+PyPDF2
+faiss-cpu
