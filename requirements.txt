@@ -1,0 +1,3 @@
+gradio
+gtts
+openai==0.28
